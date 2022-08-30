@@ -1,0 +1,2 @@
+# philosophyapp
+Philosophy App
