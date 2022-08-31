@@ -1,0 +1,23 @@
+{
+  "name": "philosophyapp",
+  "version": "1.0.0",
+  "description": "Philosophy App",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmassimo/philosophyapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmassimo/philosophyapp/issues"
+  },
+  "homepage": "https://github.com/tmassimo/philosophyapp#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
